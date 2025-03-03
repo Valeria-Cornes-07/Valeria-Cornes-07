@@ -1,6 +1,8 @@
-# Hi there :octocat: 
+# Hola! :octocat: 
 
-:computer: This is the photo galery of my jobs! :computer:
+Soy estudiante de segundo año de la carrera de Ciencia de Datos e Inteligencia Artificial, con el objetivo de hacer una transición hacia el ámbito de TI y Análisis de Datos.
+
+:computer: Te comparto mi galeria de fotos de mis trabajos :computer:
 
 ![image](https://github.com/user-attachments/assets/afc0f5e6-e705-4fba-929d-926034aa2876)
 
