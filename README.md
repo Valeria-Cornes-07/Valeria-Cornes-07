@@ -8,7 +8,7 @@ Soy estudiante de segundo año de la carrera de Ciencia de Datos e Inteligencia 
 
 ![image](https://github.com/user-attachments/assets/8d87a5eb-8e52-4859-bf98-7675d3eb85b8)
 
-![image](https://github.com/user-attachments/assets/b495718c-0de0-4b71-a046-66e6b632cc2d)
+![image](https://github.com/user-attachments/assets/e8837866-0e1c-4814-877e-e2285fbe150b)
 
 ![image](https://github.com/user-attachments/assets/791cb52a-9cbb-464d-bc64-ce6a72a7cffc)
 
