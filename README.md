@@ -1,12 +1,12 @@
  
 
-Hi! I'm Valeria :octocat:   
+# Hi! I'm Valeria :octocat:   
 
-I'm a third-year Data Science and Artificial Intelligence student, with 10+ years of experience in sales analysis and business operations.  
+### I'm a third-year Data Science and Artificial Intelligence student, with 10+ years of experience in sales analysis and business operations.  
 
-I'm currently transitioning into the Data & AI field, combining my academic training with real-world business experience to build data-driven solutions with practical impact.
+### I'm currently transitioning into the Data & AI field, combining my academic training with real-world business experience to build data-driven solutions with practical impact.
 
-💡 Focused on building AI solutions for real-world business processes.
+### 💡 Focused on building AI solutions for real-world business processes.
 
 ## 🛠 Tech Stack
 
