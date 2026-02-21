@@ -23,7 +23,7 @@ I'm currently transitioning into the Data & AI field, combining my academic trai
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-Learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="45" alt="SciPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" height="45" alt="SciPy"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" alt="Seaborn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter"/>
