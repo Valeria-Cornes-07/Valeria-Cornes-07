@@ -1,6 +1,6 @@
 # Hola! :octocat: 
 
-Soy estudiante de segundo año de la carrera de Ciencia de Datos e Inteligencia Artificial, con el objetivo de hacer una transición hacia el ámbito de TI y Análisis de Datos.
+Soy estudiante de tercer año de la carrera de Ciencia de Datos e Inteligencia Artificial, comparto algunos de mis trabajos académicos
 
 :computer: Te comparto mi galeria de fotos de mis trabajos :computer:
 
