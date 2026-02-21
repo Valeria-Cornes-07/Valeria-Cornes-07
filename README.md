@@ -1,8 +1,8 @@
 # Hola! :octocat: 
 
-Soy estudiante de tercer año de la carrera de Ciencia de Datos e Inteligencia Artificial, comparto algunos de mis trabajos académicos
+Soy estudiante de tercer año de la carrera de Ciencia de Datos e Inteligencia Artificial, comparto algunas de mis prácticas académicas.
 
-:computer: Te comparto mi galeria de fotos de mis trabajos :computer:
+:computer:  mi galeria de fotos  :computer:
 
 ![image](https://github.com/user-attachments/assets/afc0f5e6-e705-4fba-929d-926034aa2876)
 
