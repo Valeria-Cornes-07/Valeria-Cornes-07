@@ -88,19 +88,68 @@ Exploring workflow automation and backend development for AI-powered application
 
 ---
 
-:computer:  mi galeria de fotos  :computer:
+## 📸 Selected Academic Projects
 
-![image](https://github.com/user-attachments/assets/afc0f5e6-e705-4fba-929d-926034aa2876)
+# These projects reflect my progression from data exploration to applied machine learning and AI solutions.  
 
-![image](https://github.com/user-attachments/assets/8d87a5eb-8e52-4859-bf98-7675d3eb85b8)
+---
 
-![image](https://github.com/user-attachments/assets/e8837866-0e1c-4814-877e-e2285fbe150b)
+### 🧠 MIA Chatbot – RAG Academic Assistant 🧠
 
-![image](https://github.com/user-attachments/assets/791cb52a-9cbb-464d-bc64-ce6a72a7cffc)
+LLM-powered chatbot designed to assist Data Science students using a Retrieval-Augmented Generation (RAG) architecture.
 
-![image](https://github.com/user-attachments/assets/f9612e67-e553-4b58-b642-bee16373e797)
+- LLM integration with semantic retrieval (embeddings + vector store)
 
-![API NASA](https://github.com/user-attachments/assets/c678bd26-789f-4057-8d28-365daf4c17c3)
+- Context-aware responses to course-related questions
+
+- Reduced hallucinations through knowledge grounding
+
+📌 Focused on applied AI in education and real-world RAG implementation.
+
+<img width="1896" height="774" alt="image" src="https://github.com/user-attachments/assets/69c3e114-0d45-40fe-9a76-169ae9378bac" />
+
+--- 
+
+### 🍷🧀 Wine & Cheese Recommender 🍷🧀
+
+Interactive NLP-based application that recommends Argentine wine and cheese pairings.
+
+- Rule-based recommendation system
+
+- Text input processing and profile classification
+
+- User-friendly interface built with Gradio
+
+📌 Focused on applied NLP and domain-specific recommendation systems.
+
+<img width="1911" height="661" alt="image" src="https://github.com/user-attachments/assets/cc0836f6-c844-4f44-a583-49d9d2adcf59" />
+
+
+### 🧠 Breast Cancer Classification Model
+
+Applied supervised learning techniques to classify malignant vs. benign tumors.
+
+- Exploratory Data Analysis & feature correlation study  
+- Model comparison (Logistic Regression, Random Forest)  
+- Evaluation using ROC curve & performance metrics  
+
+📌 Focused on model interpretability and business impact.
+
+![Breast Cancer Project](https://github.com/user-attachments/assets/afc0f5e6-e705-4fba-929d-926034aa2876)
+
+---
+
+### 🌍 NASA API Data Exploration
+
+Data extraction and analysis using a public API.
+
+- API integration and data cleaning  
+- Exploratory analysis and visualization  
+- Insight generation from real-world datasets  
+
+📌 Focused on data storytelling and structured analysis.
+
+![NASA API Project](https://github.com/user-attachments/assets/c678bd26-789f-4057-8d28-365daf4c17c3)
 
 ---
 ## 📫 Contact
