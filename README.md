@@ -90,7 +90,7 @@ Exploring workflow automation and backend development for AI-powered application
 
 ## 📸 Selected Academic Projects
 
-# These projects reflect my progression from data exploration to applied machine learning and AI solutions.  
+These projects reflect my progression from data exploration to applied machine learning and AI solutions.  
 
 ---
 
