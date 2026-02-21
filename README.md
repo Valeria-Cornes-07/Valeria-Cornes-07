@@ -98,11 +98,11 @@
 
 ### LLM-powered chatbot designed to assist Data Science students using a Retrieval-Augmented Generation (RAG) architecture.
 
-### - LLM integration with semantic retrieval (embeddings + vector store)
+### * LLM integration with semantic retrieval (embeddings + vector store)
 
-### - Context-aware responses to course-related questions
+### * Context-aware responses to course-related questions
 
-### - Reduced hallucinations through knowledge grounding
+### * Reduced hallucinations through knowledge grounding
 
 ### 📌 Focused on applied AI in education and real-world RAG implementation.
 
@@ -114,11 +114,11 @@
 
 ### Interactive NLP-based application that recommends Argentine wine and cheese pairings.
 
-### - Rule-based recommendation system
+### * Rule-based recommendation system
 
-### - Text input processing and profile classification
+### * Text input processing and profile classification
 
-### - User-friendly interface built with Gradio
+### * User-friendly interface built with Gradio
 
 ### 📌 Focused on applied NLP and domain-specific recommendation systems.
 
@@ -129,9 +129,9 @@
 
 ### Applied supervised learning techniques to classify malignant vs. benign tumors.
 
-### - Exploratory Data Analysis & feature correlation study  
-### - Model comparison (Logistic Regression, Random Forest)  
-### - Evaluation using ROC curve & performance metrics  
+### * Exploratory Data Analysis & feature correlation study  
+### * Model comparison (Logistic Regression, Random Forest)  
+### * Evaluation using ROC curve & performance metrics  
 
 ### 📌 Focused on model interpretability and business impact.
 
@@ -143,9 +143,9 @@
 
 ### Data extraction and analysis using a public API.
 
-### - API integration and data cleaning  
-### - Exploratory analysis and visualization  
-### - Insight generation from real-world datasets  
+### * API integration and data cleaning  
+### * Exploratory analysis and visualization  
+### * Insight generation from real-world datasets  
 
 ### 📌 Focused on data storytelling and structured analysis.
 
