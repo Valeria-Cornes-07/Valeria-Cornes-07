@@ -90,11 +90,11 @@
 
 ## 📸 Selected Academic Projects
 
-### These projects reflect my progression from data exploration to applied machine learning and AI solutions.  
+These projects reflect my progression from data exploration to applied machine learning and AI solutions.  
 
 ---
 
-## 🧠 MIA Chatbot – RAG Academic Assistant 🧠
+### 🧠 MIA Chatbot – RAG Academic Assistant 🧠
 
 LLM-powered chatbot designed to assist Data Science students using a Retrieval-Augmented Generation (RAG) architecture.
 
@@ -110,9 +110,9 @@ LLM-powered chatbot designed to assist Data Science students using a Retrieval-A
 
 --- 
 
-## 🍷🧀 Wine & Cheese Recommender 🍷🧀
+### 🍷🧀 Wine & Cheese Recommender 🍷🧀
 
- Interactive NLP-based application that recommends Argentine wine and cheese pairings.
+Interactive NLP-based application that recommends Argentine wine and cheese pairings.
 
 * Rule-based recommendation system
 
@@ -125,7 +125,7 @@ LLM-powered chatbot designed to assist Data Science students using a Retrieval-A
 <img width="1911" height="661" alt="image" src="https://github.com/user-attachments/assets/cc0836f6-c844-4f44-a583-49d9d2adcf59" />
 
 
-## 🧠 Breast Cancer Classification Model
+### 🧠 Breast Cancer Classification Model
 
 Applied supervised learning techniques to classify malignant vs. benign tumors.
 
@@ -135,13 +135,13 @@ Applied supervised learning techniques to classify malignant vs. benign tumors.
   
 * Evaluation using ROC curve & performance metrics  
 
-### 📌 Focused on model interpretability and business impact.
+ 📌 Focused on model interpretability and business impact.
 
 ![Breast Cancer Project](https://github.com/user-attachments/assets/afc0f5e6-e705-4fba-929d-926034aa2876)
 
 ---
 
-## 🌍 NASA API Data Exploration
+### 🌍 NASA API Data Exploration
 
 Data extraction and analysis using a public API.
 
